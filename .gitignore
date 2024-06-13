@@ -2,6 +2,8 @@ template-nb.ipynb
 
 
 # Ignore out/tmp directories
+data/
+
 tmp/
 **/tmp/
 
