@@ -3,6 +3,12 @@ template-nb.ipynb
 
 # Ignore out/tmp directories
 data/
+data/*
+**/data/*
+**/data/
+
+**/*.csv 
+*.csv
 
 tmp/
 **/tmp/
